@@ -22,7 +22,9 @@ To reverse an element we use: rev = st[::-1] .
     Start
     Input: Get an integer n from the user.
     Initialize: Set fact to 1.
-    Condition: While n is greater than 0 .Calculate: Multiply fact by $n$ and store it in fact. Update: Decrement $n$ by 1.
+    Condition: While n is greater than 0 .
+    Calculate: Multiply fact by n and store it in fact.
+    Update: Decrement n by 1.
     Output: Print the final value of fact.
     End.
 
