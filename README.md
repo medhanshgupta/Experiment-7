@@ -64,7 +64,7 @@ To reverse an element we use: rev = st[::-1] .
     Initialize: Set count to 0.
     Condition: While n is not equal to 0:
     Update: Increment count by 1.
-    Reduce: Remove the last digit from $n$ using floor division.
+    Reduce: Remove the last digit from n using floor division.
     Output: Print the count.
     End.
 
