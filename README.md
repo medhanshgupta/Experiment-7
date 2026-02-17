@@ -30,7 +30,7 @@ To reverse an element we use: rev = st[::-1] .
 
     3. Fibonacci Series (Up to n terms)
     Start
-    Input: Get the number of terms $n$ from the user.
+    Input: Get the number of terms n from the user.
     Initialize: Set a = 0, b = 1, and counter i = 1.
     Condition: While i is less than or equal to $n$:
     Output: Print the current value of a.
@@ -46,7 +46,7 @@ To reverse an element we use: rev = st[::-1] .
     Condition: While n is greater than 0:
     Extract: Get the last digit using n % 10.
     Append: Update rev as (rev * 10) + digit.
-    Reduce: Remove the last digit from $n$ using floor division (n // 10).
+    Reduce: Remove the last digit from n using floor division (n // 10).
     Output: Print the reversed number rev.
     End.
 
