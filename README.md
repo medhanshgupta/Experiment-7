@@ -8,7 +8,7 @@ If the condition never becomes False, it creates an infinite loop.
 digit = n%10     
 rev = rev*10 + digit     
 n //= 10 ..... This reverses a number.    
-To reverse an element we use: rev = st[::-1] .      
+To reverse an element we use: rev = st[::-1] .     
 
 ## Algorithm:
     1. Print numbers 1 to n:
