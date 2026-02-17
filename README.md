@@ -32,7 +32,7 @@ To reverse an element we use: rev = st[::-1] .
     Start
     Input: Get the number of terms n from the user.
     Initialize: Set a = 0, b = 1, and counter i = 1.
-    Condition: While i is less than or equal to $n$:
+    Condition: While i is less than or equal to n:
     Output: Print the current value of a.
     Calculate: Store the sum of a and b in c.
     Shift: Update a to the value of b, and b to the value of c.
