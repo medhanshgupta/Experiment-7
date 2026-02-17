@@ -66,7 +66,7 @@ To reverse an element we use: rev = st[::-1] .
     Output: Print the count.
     End.
 
-    7. Search Element in a List (Linear Search)
+    7. Search Element in a List 
     Start
     Initialize: Define a list nums and get a key to search from the user.
     Iteration: Start a loop to check each index i of the list.
